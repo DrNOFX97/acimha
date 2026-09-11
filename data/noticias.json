@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-11T06:47:13.457Z",
+  "atualizado_em": "2026-09-11T11:55:26.929Z",
   "queries": [
     "crise habitacional Algarve",
     "habitação social Algarve",
@@ -7,6 +7,12 @@
     "construção habitação Algarve"
   ],
   "noticias": [
+    {
+      "titulo": "Portugal lançou há dois anos medidas na habitação confirmadas agora pela UE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHZMZDY1WFY1MzJuZkRDNWRSeFloZ3UwNGhXVlFSZHZxVkRMMm8tRFQ0azZoSGRIWlFmVGxPalhmSFZmWllDOHV4RDIxdi1wUzJVNC1iSW83SFh2cHJhcEh2OFhUY2JadUNTV0h2NHJNVUU4Vnp5VXlZcTRtZzJxMnJNa0FqX1JEb0ZUWGtoWXAxY3RpZW9pLUhzOWhLdXRzMFdNNFF4UDVuUlhOc2lkTXZ0UFRqSWlEdnc?oc=5",
+      "fonte": "dnoticias.pt",
+      "data": "11 Set 2026"
+    },
     {
       "titulo": "Arrendar casa: guia completo sobre o RSAA já em vigor",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHczV0lObVhzM0EyRlhhR2d6T1VpQ0lfNG1Cem1KVml1N3hsSF9lSVJZbFNUWUdRTE5id0M1clZ5MXVfYk5meGlqUU95NjNpRlF4N0daanVQbFBrcFdhRzdVWXU1UlA4RE1GOFk5WGVTX3F5YWstQW1JS0FPUnFseVNsYXJxTmpzU2pYNHk1ZzgwVzVVaGFGRWpJdUgtaWJtcU9qNWxFME04TTY4d1RzZzhyMnpkVFlKdmw3akI2NzRRbmlqblJTRGFpLWdSVkVV0gHWAUFVX3lxTE50Y1NVdWpFczZjM3l4Q2l6UEVrT0NXZW5aenM2Q0MzMTRYamg2RkdIYjBxVVZnZmtaS0ozN2JXRlBfMUhNckwybzBISF96TmkyRl9qemZjbHNZX29xeW94aVU0N1BmN0lrekU5VXFMUmprMkREMlFwYjV4MGp0TmZwOTNDY0NLU3dHMVczNmlkUWJfS2V6bnBqZl9EU0RFTl9McERUMVVBbGJGaXdaeVdZeTJRTXM1VEFDdGFQRmNjeEJHNGF2cVF6Y21UTW1IUWJSQ2YwRWc?oc=5",
@@ -16,7 +22,7 @@
     {
       "titulo": "Aprovada nova linha de crédito do BEI para habitação social",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmlDSEp3NFhyNk85VlZfdWZJNHlDQ1RjamxPUk9SZkJYX0xYQWZla0dZdEJjcFpFOWsyQTVzZDM2ekk0VjhTY1JQVGowZG9aQXg1eGMtU1BHcGRwV0ZQVEdQSW0tekE5ZDl5RHZoYlM2OVZ5QmxqU2xyMXFKeGRxeUxYamdEQm5IWHF0MlpLa3A1amRDNlNDRmxDYkUzZEhIUDhpc2E2cDJTLXdDN2FHdkZDdXBHRjlXS1ZhM3o0LVk5cWVD?oc=5",
-      "fonte": "vidaimobiliaria.com",
+      "fonte": "vida imobiliaria",
       "data": "07 Set 2026"
     },
     {
@@ -60,12 +66,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnV2ZEgwT19kWlNVbXJTM1htWVowRTZ1OVpLcFh0eEY4VmVJYms2Q2IxbWdvZGZzSTNGS2xuWGg3ZGNfb3FOcUZBaksyd1kzM2Q2WWRmYWt3Q3FPS2kxTVVHSnBPZzY0T3dBWFgwR0x4Ym83M2xNT3FWMjNtbTRzazA0T3ZmcnlHM3dPVEh0cDZRRXRLZVU5clFMeEVZZWhYX1ZCZFVLdm5GWmJmVEZNSTcybjg?oc=5",
       "fonte": "nit.pt",
       "data": "26 Ago 2026"
-    },
-    {
-      "titulo": "Odivelas cria programa de arrendamento acessível com rendas até 1.125 euros",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ21UZ2RPQnkxZkUzVEV4NGxwNFRhTjVrRWdWTC1iV3ZseHRQenZrT1FJREEwQV9YUEQ3TkJ0WTRuR1cyZmpISEtmbHc3Ulhwd09COGkxRFJCckRlRjlDaWtFaDZndlpRZlJuUFI3WlVQMXg5RlFmRlp2S05VZnJSMG5ocDlBbnNWZ2JsN19nelA1SVlKSF9Oek1rZjFmYm8zYTBWeTZucjBZRFhZM0FxLThVS3DSAa8BQVVfeXFMTk9XSU5FT1o0YlFLdTc3bVVHNlJGbEdsaldBaElxRmNCQ08zUzhFY1gwVjVmcEpQYWxCZGF1QVpLeUJJNnNvSHVkaGxpOVhJNFhTekFSMDBhVnE5M0lyQWFPNXgyeU5oeWwwWmVBUEl6SzJwcFFrOThtQ0NkRDQ1YndJZzd2ZHhIOFNCZjlsN2h3YVU5OU5YTFh6aTdmT0JNTElfUlpvaWRRQnc5cHQyOA?oc=5",
-      "fonte": "SÁBADO",
-      "data": "20 Ago 2026"
     }
   ]
 }
